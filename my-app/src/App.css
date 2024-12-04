@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.greeting{
+  font-style: italic;
+}
+
+.header{
+font-style: italic;
+}
+
+.content{
+  font-style: italic;
+  color: red;
+}
